@@ -1,5 +1,9 @@
 # Where am I
 
+Where am I helps you to locate yourself and to switch on the flashlight on your device.
+This is a practice project that was created as part of the Cross Plattform Advanced course at the FH Technikum Vienna.
+
+
 ## How to run the app
 1. install dependencies using ‘npm install’
 2. start server using ‘ionic serve’  or ‘ionic serve --lab’
