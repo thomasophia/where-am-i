@@ -18,7 +18,7 @@ Run the app on iOS:
 - Dev & Prod Environment
 
 ## How the app looks like
-![starterpage]([https://user-images.githubusercontent.com/112976198/214297424-2551241a-45c9-4c37-be98-caebd0ef4243.PNG|width=100px])
+![starterpage]([https://user-images.githubusercontent.com/112976198/214297424-2551241a-45c9-4c37-be98-caebd0ef4243.PNG|width=300px])
 <img src="[starterpage](https://user-images.githubusercontent.com/112976198/214297424-2551241a-45c9-4c37-be98-caebd0ef4243.PNG)" width="300" height="100">
 ![navigation](https://user-images.githubusercontent.com/112976198/214297637-9cb405f8-6184-4892-a5ac-3043d5373786.PNG)
 ![permission](https://user-images.githubusercontent.com/112976198/214297596-f884811b-e91c-46c6-9e50-0d458d46020e.PNG)
