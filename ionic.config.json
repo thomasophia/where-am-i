@@ -1,0 +1,7 @@
+{
+  "name": "CPA_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

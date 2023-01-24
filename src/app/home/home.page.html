@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Home</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="container">
+    <ion-row class="ion-justify-content-center ion-margin">
+      <ion-icon class="ion-margin-end" name="flashlight-outline"></ion-icon>
+      <ion-button [disabled]="!flashlightSetting" (click)="switchOn()">Flashlight</ion-button>
+    </ion-row>
+    <ion-row>
+      <div #map id="map" [hidden]="geolocationSetting===false">
+      </div>
+    </ion-row>
+    <ion-row class="ion-justify-content-center ion-margin-top" id="container" [hidden]="geolocationSetting===true" >
+      <ion-icon name="map-outline"></ion-icon>
+      <ion-label class="ion-margin ">Enable Geolocation Display in Settings to show Map</ion-label>
+    </ion-row>
+  </div>
+</ion-content>
